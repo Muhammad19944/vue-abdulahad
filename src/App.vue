@@ -37,7 +37,6 @@ export default {
 
 <script setup>
 import { reactive, ref, nextTick } from "vue"
-import MyButton from "./components/MyButton.vue"
 
 // const obj = reactive({
 //   nested: { count: 0 },
